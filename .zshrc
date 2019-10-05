@@ -14,7 +14,7 @@ export LSCOLORS=Exfxcxdxbxegedabagacad
 
 setopt share_history
 
-#setopt auto_cd
+setopt auto_cd
 
 alias la='ls -a'
 alias ll='ls -l'
