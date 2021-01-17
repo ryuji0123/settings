@@ -48,5 +48,6 @@ noremap <Right> <Nop>
 "{{{ Search setting
 set incsearch
 set ignorecase
+set nohlsearch
 set smartcase
 "}}}
