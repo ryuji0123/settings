@@ -38,6 +38,8 @@ set tabstop=2
 set shiftwidth=2
 set softtabstop=2
 set backspace=indent,eol,start
+set nobackup
+set noswapfile
 noremap <Up> <Nop>
 noremap <Down> <Nop>
 noremap <Left> <Nop>
