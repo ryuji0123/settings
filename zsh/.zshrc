@@ -67,6 +67,7 @@ fi
 alias md='mkdir -p'
 alias nv='nvidia-smi'
 alias p='python'
+alias piu='pip install --upgrade pip'
 alias t='TERM=screen-256color-bce tmux'
 alias v='vim'
 alias vg='vim ~/.gitconfig'
