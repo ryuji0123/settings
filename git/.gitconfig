@@ -1,5 +1,5 @@
 [core]
-	editor = vim -c \"set fenc=utf-8\"
+  editor = vim -c \"set fenc=utf-8\"
 [alias]
-	tree = log --graph --pretty=format:'%x09%C(auto) %h %Cgreen %ar %Creset%x09by"%C(cyan ul)%an%Creset" %x09%C(auto)%s %d'
+  tree = log --graph --pretty=format:'%x09%C(auto) %h %Cgreen %ar %Creset%x09by"%C(cyan ul)%an%Creset" %x09%C(auto)%s %d'
   push-f = push --force-with-lease
