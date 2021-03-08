@@ -6,10 +6,15 @@ if dein#load_state('/home/rokuda/.vim/dein')
   call dein#begin(expand('~/.vim/dein'))
   "Pligins
   call dein#add('Shougo/dein.vim')
+
   "lexima
   call dein#add('cohama/lexima.vim')
+
   "molokai
   call dein#add('tomasr/molokai')
+
+  "vim-python-pep8-indent
+  call dein#add('Vimjas/vim-python-pep8-indent')
 
   call dein#end()
   call dein#save_state()
